@@ -35,7 +35,10 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
-
+  Saying things such as "Your father smelt of elderberry" or "boil your bottoms"
+  "english kniggets" "I fart in your general direction" "your mother was a hamster"
+  Continued taunting will be met with flying poultry and bovine.
+  
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
@@ -65,6 +68,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
+Continued Harrassment will be met with the holy hand grenade.
 
 ## Enforcement Guidelines
 
