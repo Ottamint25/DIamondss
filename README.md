@@ -10,3 +10,4 @@ Diamonds all in my chain, diamonds all in my ring, diamonds all in my watch, don
 🔥🔥🔥
 🍌🍌🍌
 🐀🐀🐀
+Shine on you crazy diamond. Pink floyd
