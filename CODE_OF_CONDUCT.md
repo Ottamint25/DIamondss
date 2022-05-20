@@ -51,6 +51,8 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+Community leaders hold the right to ask any 3 questions at the bridge of death. 
+
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
@@ -70,11 +72,14 @@ All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
 Continued Harrassment will be met with the holy hand grenade.
+They will be banished to the gorge of eternal perril.
 
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
+
+Stop! What is your name? What is your quest? What is the capital of asteria?
 
 ### 1. Correction
 
